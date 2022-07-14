@@ -18,6 +18,13 @@
 >
   <h3>Try to hit TAB and iterate across inputs</h3>
   <h3>Then same with Shift-TAB</h3>
+
+  <div>
+    <a href="/svelte-carbon-modal-a11y/">Dropdown first</a>
+    <br />
+    <a href="/svelte-carbon-modal-a11y/reverse">Inputs first</a>
+  </div>
+  
   <div class="content">
     <TextInput placeholder="text" name="text" labelText="Login" />
     <TextInput placeholder="password" type="password" labelText="Password" />
